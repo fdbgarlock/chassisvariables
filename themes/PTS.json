@@ -1,0 +1,144 @@
+{
+  "site": {
+    "sideNav": {
+      "background": {
+        "value": "{primary.50}",
+        "type": "color"
+      },
+      "on": {
+        "value": "{primary.400}",
+        "type": "color"
+      },
+      "selectedBackground": {
+        "value": "{primary.200}",
+        "type": "color"
+      },
+      "onSelected": {
+        "value": "{primary.500}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{primary.100}",
+        "type": "color"
+      }
+    },
+    "header": {
+      "value": "{primary.300}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{background.neutral.lowEmphasis}",
+      "type": "color"
+    }
+  },
+  "text": {
+    "highEmphasis": {
+      "value": "{neutral.800}",
+      "type": "color"
+    },
+    "mediumEmphasis": {
+      "value": "{neutral.600}",
+      "type": "color"
+    },
+    "lowEmphasis": {
+      "value": "{neutral.500}",
+      "type": "color"
+    }
+  },
+  "icon": {
+    "highEmphasis": {
+      "value": "{neutral.400}",
+      "type": "color"
+    },
+    "mediumEmphasis": {
+      "value": "{neutral.200}",
+      "type": "color"
+    },
+    "lowEmphasis": {
+      "value": "{neutral.50}",
+      "type": "color"
+    }
+  },
+  "background": {
+    "colored": {
+      "lowEmphasis": {
+        "value": "{primary.100}",
+        "type": "color"
+      },
+      "highEmphasis": {
+        "value": "{primary.500}",
+        "type": "color"
+      }
+    },
+    "none": {
+      "value": "{neutral.0}",
+      "type": "color"
+    },
+    "neutral": {
+      "lowEmphasis": {
+        "value": "{neutral.50}",
+        "type": "color"
+      },
+      "mediumEmphasis": {
+        "value": "{neutral.50}",
+        "type": "color"
+      },
+      "darkEmphasis": {
+        "value": "{neutral.100}",
+        "type": "color"
+      }
+    }
+  },
+  "border": {
+    "lowEmphasis": {
+      "value": "{neutral.100}",
+      "type": "color"
+    },
+    "mediumEmphasis": {
+      "value": "{neutral.200}",
+      "type": "color"
+    },
+    "highEmphasis": {
+      "value": "{neutral.400}",
+      "type": "color"
+    }
+  },
+  "button": {
+    "primary": {
+      "value": "{primary.500}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{secondary.500}",
+      "type": "color"
+    },
+    "secondaryAlt": {
+      "value": "{secondary.500}",
+      "type": "color"
+    },
+    "delete": {
+      "value": "{alerts.error.400}",
+      "type": "color"
+    }
+  },
+  "tag": {
+    "colored": {
+      "lowEmphasisBackground": {
+        "value": "{background.colored.lowEmphasis}",
+        "type": "color"
+      },
+      "lowEmphasisOn": {
+        "value": "{primary.500}",
+        "type": "color"
+      },
+      "highEmphasisBackground": {
+        "value": "{background.colored.highEmphasis}",
+        "type": "color"
+      },
+      "dhighEmphasisOn": {
+        "value": "{neutral.0}",
+        "type": "color"
+      }
+    }
+  }
+}

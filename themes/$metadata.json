@@ -1,8 +1,9 @@
 {
   "tokenSetOrder": [
-    "sourceVariables",
-    "sourceVariables_Copy",
-    "PTS",
-    "ptsColors"
+    "PTSVariables",
+    "VITVariables",
+    "source/sourceVariables",
+    "sourcePtsColors",
+    "sourceVitColors"
   ]
 }

@@ -6,11 +6,11 @@
         "type": "color"
       },
       "on": {
-        "value": "{primary.400}",
+        "value": "{neutral.600}",
         "type": "color"
       },
       "selectedBackground": {
-        "value": "{primary.200}",
+        "value": "{primary.100}",
         "type": "color"
       },
       "onSelected": {
@@ -18,12 +18,12 @@
         "type": "color"
       },
       "hover": {
-        "value": "{primary.100}",
+        "value": "{primary.a100}",
         "type": "color"
       }
     },
     "header": {
-      "value": "{primary.300}",
+      "value": "{primary.500}",
       "type": "color"
     },
     "background": {
@@ -135,7 +135,7 @@
         "value": "{background.colored.highEmphasis}",
         "type": "color"
       },
-      "dhighEmphasisOn": {
+      "highEmphasisOn": {
         "value": "{neutral.0}",
         "type": "color"
       }
